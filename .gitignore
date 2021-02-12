@@ -1,3 +1,7 @@
 # Project exclude paths
 /seat-warmer-api/target/
 /seat-warmer-ui/node_modules/
+/seat-warmer-ui/node/
+*.iml
+.DS_Store
+.idea/
