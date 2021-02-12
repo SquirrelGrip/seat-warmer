@@ -1,0 +1,3 @@
+# Project exclude paths
+/seat-warmer-api/target/
+/seat-warmer-ui/node_modules/
